@@ -8,7 +8,7 @@ module.exports = {
   database: {
     username: 'postgres',
     dialect: 'postgres',
-    password: '',
+    password: 'MyP@ss!2022Lab',
     database: 'postgres',
     host: 'postgres',
     logging: console.log,
